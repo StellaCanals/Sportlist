@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+
+nav{
+    background: linear-gradient( #001E6C, white);
+    color: red;
+    padding: 4rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+section h1{
+    font-size: 4rem;
+}
+
+h1:hover{
+    text-decoration: underline;
+}
+
+img{
+    height: 700px;
+    width: 700px;
+}
+
+footer{
+    text-align: center;
+    background: linear-gradient( #001E6C, white);
+    color: red;
+    font-size: 2rem;
+    text-align: center;
+}
